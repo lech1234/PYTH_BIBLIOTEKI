@@ -1,0 +1,20 @@
+wiersz  1 (POCZĄTKOWY)
+wiersz  2
+wiersz  3
+wiersz  4
+wiersz  5
+wiersz  6
+wiersz  7
+wiersz  8
+wiersz  9
+wiersz 10
+wiersz 11
+wiersz 12
+wiersz 13
+wiersz 14
+wiersz 15
+wiersz 16
+wiersz 17
+wiersz 18
+wiersz 19
+wiersz 20 (OSTATNI)
